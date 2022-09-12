@@ -1,0 +1,28 @@
+.header1 {
+    color: blue;
+    font-size: 30px;
+    font-family: fantasy;
+    margin-left: 70px;
+   
+}
+.header2 {
+     /* float: right; */
+     margin: 10px 20px 10px 20px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.header3 {
+    /* float: right; */
+    margin: 10px 200px 10px 20px;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+.left {
+    display: flex;
+}
+.the {
+    font-style: italic;
+}
